@@ -1,5 +1,5 @@
 Chapter 3 – Things to Do (Exercises 3.1–3.6)
-Student: Jasmeen Kaur
+Student: samuel Ogar
 Exercise 3.1
 How many seconds are in an hour? Answer: There are 3,600 seconds in an hour.
 Code:
